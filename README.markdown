@@ -1,4 +1,4 @@
-# Audio Transcription API
+# Whisper Audio Transcription API
 
 A robust and scalable FastAPI-based API for transcribing and translating audio files using OpenAI's Whisper model. This project provides a professional-grade solution for processing audio files with features like file validation, performance tracking, and comprehensive logging.
 
