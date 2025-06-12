@@ -220,12 +220,23 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code follows PEP 8 and includes appropriate tests.
 
+---
+
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+MIT License © 2025 Ibrahim Mohamed Ibrahim
+```
 
-## Contact
+---
 
-For questions or support, please contact:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [github.com/your-username/audio-transcription-api/issues](https://github.com/your-username/audio-transcription-api/issues)
+## Author & Contact
+
+```
+Developed by: Ibrahim Mohamed Ibrahim
+GitHub: https://github.com/eIbrahim67
+LinkedIn: https://www.linkedin.com/in/eibrahim67
+Email: ibrahim.mohamed.ibrahim.t@gmail.com
+```
+
+---
